@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoptum_github_io=self.webpackChunkoptum_github_io||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"AI Racing League","permalink":"/blog/AI Racing League"},{"title":"Our UHG Open Source Program Office (OSPO)","permalink":"/blog/OSPO culture"}]}')}}]);

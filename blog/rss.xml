@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Optum Open Source Blog</title>
+        <link>https://optum.github.io/blog</link>
+        <description>Optum Open Source Blog</description>
+        <lastBuildDate>Wed, 08 Sep 2021 15:28:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI Racing League]]></title>
+            <link>https://optum.github.io/blog/AI Racing League</link>
+            <guid>AI Racing League</guid>
+            <pubDate>Wed, 08 Sep 2021 15:28:11 GMT</pubDate>
+            <description><![CDATA[AI Racing League]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Our UHG Open Source Program Office (OSPO)]]></title>
+            <link>https://optum.github.io/blog/OSPO culture</link>
+            <guid>Our UHG Open Source Program Office (OSPO)</guid>
+            <pubDate>Wed, 08 Sep 2021 15:28:11 GMT</pubDate>
+            <description><![CDATA[This is my first post on Docusaurus 2.]]></description>
+        </item>
+    </channel>
+</rss>
